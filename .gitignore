@@ -1,0 +1,17 @@
+# Virtual environments
+.venv/
+DEPI/
+
+# Bytecode
+__pycache__/
+*.pyc
+
+
+# VS Code + history
+.vscode/
+.history/
+
+
+# System
+.DS_Store
+Thumbs.db
